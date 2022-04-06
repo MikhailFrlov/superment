@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Светофор</string>
+    <string name="title_activity_main">Светофор</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="green">Зелёный</string>
+    <string name="buttonRed">Красный</string>
+</resources>
